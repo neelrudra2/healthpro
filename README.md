@@ -16,6 +16,15 @@ Managing healthcare appointments can often be tedious and unorganized. HealthPro
 
 ---
 
+## How It Works
+
+1. **User Registration**: Users need to first log in to their accounts.
+2. **Basic Information**: Provide the basic personal information.
+3. **Appointment Booking**: Select a doctor, preferred date-time slot and confirm the booking.
+4. **Admin Panel**: Manage bookings, reschedule, or cancel appointments as needed.
+
+---
+
 ## Tech Stack
 
 ### Frontend
@@ -37,61 +46,20 @@ Managing healthcare appointments can often be tedious and unorganized. HealthPro
 
 ---
 
-## Quick Start Guide
-
-### Prerequisites
-
-Ensure you have the following installed on your system:
-
-- [Node.js](https://nodejs.org/)
-- [Git](https://git-scm.com/)
-- A package manager like [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
-### Steps to Clone and Run the Project
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/HealthPro.git
-   cd HealthPro
-   ```
-
-2. **Install Dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Set Up Environment Variables**
-
-   - Create a `.env.local` file in the root directory.
-   - Add the required environment variables (e.g., database connection strings, Twilio API keys).
-
-4. **Run the Development Server**
-
-   ```bash
-   npm run dev
-   ```
-
-5. **Open in Browser**
-   Visit `http://localhost:3000` to see the application running.
-
----
-
 ## Screenshots
 
 ```markdown
-![Homepage](./screenshots/dashboard.png)
-_The HealthPro homepage_
+![Homepage](./public/assets/images/homepage.png)
+_HealthPro homepage_
 
-![Page 2](./screenshots/booking.png)
-_Easily book appointments using a user-friendly interface._
+![User Details Page](./public/assets/images/userdetails.png)
+_Basic personal information_
 
-![Page 3](./screenshots/booking.png)
-_Easily book appointments using a user-friendly interface._
+![New Appointment Page](./public/assets/images/newapp.png)
+_Select preferred doctor, date and time_
 
-![Admin Page](./screenshots/booking.png)
-_Easily book appointments using a user-friendly interface._
+![Admin Page](./public/assets/images/admin.png)
+_Manage all the bookings efficiently_
 ```
 
 ---
