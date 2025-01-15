@@ -58,11 +58,10 @@ _Basic personal information_
 ![New Appointment Page](./public/assets/images/newapp.png)
 _Select preferred doctor, date and time_
 
-![Admin Page](./public/assets/images/admin.png)
+### ![Admin Page](./public/assets/images/admin.png)
+
 _Manage all the bookings efficiently_
 ```
-
----
 
 ## Future Enhancements
 
