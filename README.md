@@ -48,17 +48,17 @@ Managing healthcare appointments can often be tedious and unorganized. HealthPro
 
 ## Screenshots
 
-<img src="./public/assets/images/homepage.png" alt="HealthPro Homepage" style="border-radius: 15px;">
-<p style="text-align: center; font-weight: bold;">HealthPro Homepage</p>
+![Homepage](./public/assets/images/homepage.png){:class="rounded-lg"}
+_**HealthPro homepage**_
 
-<img src="./public/assets/images/userdetails.png" alt="User Details Page" style="border-radius: 15px;">
-<p style="text-align: center; font-weight: bold;">User Details Page</p>
+![User Details Page](./public/assets/images/userdetails.png){:class="rounded-lg"}
+_**Basic personal information**_
 
-<img src="./public/assets/images/newapp.png" alt="New Appointment Page" style="border-radius: 15px;">
-<p style="text-align: center; font-weight: bold;">New Appointment Page</p>
+![New Appointment Page](./public/assets/images/newapp.png){:class="rounded-lg"}
+_**Select preferred doctor, date and time**_
 
-<img src="./public/assets/images/admin.png" alt="Admin Page" style="border-radius: 15px;">
-<p style="text-align: center; font-weight: bold;">Admin Page</p>
+![Admin Page](./public/assets/images/admin.png){:class="rounded-lg"}
+_**Manage all the bookings efficiently**_
 
 ---
 
